@@ -1,4 +1,4 @@
-# 📊 Blinkit Sales Performance Analysis (Power BI)
+# 📊 Blinkit Sales Performance Analysis (Python)
 
 This project provides a comprehensive analysis of Blinkit's sales data using **Power BI**. The goal is to extract actionable insights from key performance indicators (KPIs) such as total sales, average rating, item count, and average sales value—visually analyzed across multiple dimensions like fat content, item types, outlet details, and geographical distribution.
 
